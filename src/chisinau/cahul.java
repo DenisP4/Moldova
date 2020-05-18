@@ -6,6 +6,7 @@ public class cahul {
 		System.out.println("Hello");
 		System.out.println("Hi");
 		
+		System.out.println("Buna Seara ! ");
 	}
 
 }
