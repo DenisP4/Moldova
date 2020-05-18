@@ -8,6 +8,9 @@ public class cahul {
 		//dorina
 		
 		System.out.println("mii somn");
+		
+		// nou
+		System.out.println(" Viorica ..");
 	}
 
 }
