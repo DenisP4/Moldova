@@ -35,6 +35,8 @@ public class cahul {
 
 		for (Entry<String, Boolean> bouquet : map.entrySet()) {
 			System.out.println(bouquet.getKey() + ": " + bouquet.getValue());
+			
+			System.out.println("Good job Viorica");
 
 		}
 	}
