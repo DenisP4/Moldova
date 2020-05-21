@@ -9,14 +9,13 @@ public class cahul {
 		System.out.println("Hello");
 		System.out.println("Hi");
 		//dorina
-
+		// dorina
 		System.out.println("mii somn");
 		
 		// nou
 		System.out.println(" Viorica ..");
 
 		System.out.println("Buna Seara ! ");
-		
 
 		// Please review this  and add the iterator
 		HashMap<String, Boolean> map = new HashMap<>();
